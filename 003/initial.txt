@@ -1,2 +1,9 @@
-Cod-Titulo----------Descri��o
-001-Editar Ger�ncia-Dever�...
+Atividades 003 de protótipo 
+Regras
+-Tamanho 1200x700
+-Campos: usuario, senha, botão logar, botão cadastrar
+-Submeter na pasta 003 usando o nome do usuário do github
+-Usuários que submeterem duas ou mais submissões para essa atividade terão ambas desconsideradas.
+-Preencha o formulário em https://goo.gl/bfeXR0
+
+--> https://github.com/simaovski/ExperimentoPPGI/issues/3
