@@ -1,2 +1,13 @@
-Cod-Titulo----------Descri��o
-001-Editar Ger�ncia-Dever�...
+Atividade 010 de protótipo
+
+Regras
+-Uma imagem tamanho [700x600]
+-Uma imagem tamanho [350x500]
+-Ambas as imagens em extensão .png
+-Submeter na brach e pasta /prototype/010 usando o nome do usuário do github e tela
+--> para [700x600] usar padrão nomeusuariogithub-telatablet.png
+--> para [350x500] usar padrão nomeusuariogithub-telacelular.png
+-Usuários que submeterem três ou mais submissões para essa atividade terão ambas desconsideradas.
+-Preencha o formulário em https://goo.gl/bfeXR0
+
+--> https://github.com/simaovski/ExperimentoPPGI/issues/10
